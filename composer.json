@@ -1,0 +1,19 @@
+{
+    "name": "equipc/laravel-helpers",
+    "description": "Some helpers function for Laravel Apps",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel LAURENT",
+            "email": "michel.laurent@equipc.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
